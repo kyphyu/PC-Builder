@@ -19,7 +19,7 @@ by Group Pursuit of Grade
 
 ### Project Documentation
 * [Class Diagram](docs/ClassDiagram.md)
-* [Use Case Scenario](docs/UseCaseScenario.pdf)
+* [Use Case Scenario](docs/UseCaseScenario.md)
 
 ### 🛠️ How to Run
 **External Libraries:** This project uses Google's ZXing library to generate the PromptPay QR code. You must download the following `.jar` files:
