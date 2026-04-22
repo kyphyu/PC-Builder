@@ -2,7 +2,7 @@
 
 classDiagram
     %% --------------------------------------------------------
-    %% Decorator Pattern: PC Hardware Components
+    %% Decorator Pattern: PC Hardware Customization
     %% --------------------------------------------------------
     class PC {
         <<interface>>
