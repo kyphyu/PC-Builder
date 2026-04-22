@@ -1,7 +1,7 @@
 # PC-Builder 🖥️
 ADV COMP PROG (2190103.i) FINAL PROJECT
 
-* **A command-line interface (CLI) application built in Java that simulates a custom PC purchasing system.**
+* A command-line interface (CLI) application built in Java that simulates a custom PC purchasing system.
 
 by Group Pursuit of Grade
 
