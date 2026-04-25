@@ -3,7 +3,7 @@ ADV COMP PROG (2190103.i) FINAL PROJECT
 
 * A command-line interface (CLI) application built in Java that simulates a custom PC purchasing system.
 
-by Group Pursuit of Grade
+by Group Pursuit of Grade (6838080521 - Nyi Lynn Htet, 6838220021 - Peeranadth Chumpolkoolvong, 6838226921 - Poe Kyar Phyu)
 
 ### Features
 * **Hardware Customization:** Users can upgrade RAM and Storage on a base PC.
@@ -22,7 +22,7 @@ by Group Pursuit of Grade
 * [Use Case Scenario](docs/UseCaseScenario.md)
 
 ### 🛠️ How to Run
-**External Libraries:** This project uses Google's ZXing library to generate the PromptPay QR code. You must download the following `.jar` files:
+**External Libraries:** This project uses Google's ZXing library to generate the PromptPay QR code. Please download the following `.jar` files:
   * [ZXing Core 3.5.4](https://mvnrepository.com/artifact/com.google.zxing/core/3.5.4) (Click "jar" under the Files section)
   * [ZXing JavaSE 3.5.4](https://mvnrepository.com/artifact/com.google.zxing/javase/3.5.4) (Click "jar" under the Files section)
 1. Clone this repository.
